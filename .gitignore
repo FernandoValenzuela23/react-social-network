@@ -1,0 +1,30 @@
+/api-rest-social/images/user/*
+/api-rest-social/images/publication/*
+
+node_modules
+
+
+# Logs
+./social-network-fe/logs
+/social-network-fe/*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+./social-network-fe/node_modules/*
+/social-network-fe/dist
+dist-ssr
+*.local
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
